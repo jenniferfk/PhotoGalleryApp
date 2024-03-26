@@ -2,11 +2,9 @@
 
 PhotoLocationGalleryApp is a React Native application designed to provide users with a seamless experience for capturing, organizing, and viewing photos based on their location.
 
-<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/bd27a9c7-0826-409b-8c57-770e8ec70d16" width="200">
+<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/a7bcaaf5-6804-4fdc-9e50-1d7b24ea26aa" width="200">
 
 <img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/78d1d34e-1133-4242-88bc-1e19bbdeea22" width="200">
-
-<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/a7bcaaf5-6804-4fdc-9e50-1d7b24ea26aa" width="200">
 
 <img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/ac58b05e-9d53-4f34-819a-1fd2f5959ae0" width="200">
 
@@ -14,9 +12,11 @@ PhotoLocationGalleryApp is a React Native application designed to provide users 
 
 <img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/6b1f0b73-7040-43af-a93d-b4016025d24a" width="200">
 
-<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/fa4710c6-4259-4f6c-b180-c5970c06d87c" width="200">
-
 <img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/e74cc5ea-6805-4b10-b121-2d67b1c3b172" width="200"> 
+
+<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/bd27a9c7-0826-409b-8c57-770e8ec70d16" width="200">
+
+<img src="https://github.com/jenniferfk/PhotoGalleryApp/assets/121551748/fa4710c6-4259-4f6c-b180-c5970c06d87c" width="200">
 
 ## Description: 
 - Camera Screen : User can capture an image after giving permission to the camera usage. when the photo is taken, its location is put in a mock api. (for unknown reasons, the location on first 1-2 tries is undefined then it gets stored perfectly)
